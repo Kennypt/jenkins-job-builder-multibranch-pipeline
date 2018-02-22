@@ -12,7 +12,7 @@ class MultibranchPipeline(jenkins_jobs.modules.base.Base):
     component_type = 'multibranch-pipeline'
     component_list_type = 'multibranch-pipeline'
 
-    def gen_xml(self, parser, xml_parent, data):
+    def gen_xml(self, xml_parent, data):
         sources = data.get(self.component_type, {})
 
         source_definition = 'source' in sources
