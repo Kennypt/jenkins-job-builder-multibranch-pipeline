@@ -1,6 +1,6 @@
 ## jenkins-job-builder-multibranch-pipeline
 
-A plugin for [jenkins-job-builder](http://docs.openstack.org/infra/jenkins-job-builder) to support [multibranch pipeline](https://wiki.jenkins-ci.org/display/JENKINS/Pipeline+Multibranch+Plugin) job generation.
+A plugin for [jenkins-job-builder] V1 (http://docs.openstack.org/infra/jenkins-job-builder) to support [multibranch pipeline](https://wiki.jenkins-ci.org/display/JENKINS/Pipeline+Multibranch+Plugin) job generation.
 
 #### Usage:
 
